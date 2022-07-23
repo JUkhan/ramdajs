@@ -1,0 +1,23 @@
+{
+  "name": "ramdajs",
+  "version": "1.0.0",
+  "description": "Functional programming patterns with ramdajs",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JUkhan/ramdajs.git"
+  },
+  "keywords": [],
+  "author": "JUkhan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JUkhan/ramdajs/issues"
+  },
+  "homepage": "https://github.com/JUkhan/ramdajs#readme",
+  "dependencies": {
+    "ramda": "^0.28.0"
+  }
+}

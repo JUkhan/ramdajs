@@ -1,0 +1,13 @@
+lockfileVersion: 5.3
+
+specifiers:
+  ramda: ^0.28.0
+
+dependencies:
+  ramda: 0.28.0
+
+packages:
+
+  /ramda/0.28.0:
+    resolution: {integrity: sha512-9QnLuG/kPVgWvMQ4aODhsBUFKOUmnbUnsSXACv+NCQZcHbeb+v8Lodp8OVxtRULN1/xOyYLLaL6npE6dMq5QTA==}
+    dev: false
